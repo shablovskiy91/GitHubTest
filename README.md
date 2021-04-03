@@ -5,7 +5,7 @@ Here we are edited this file in IDEA locally.
 
 We doing Commit and push
 
-Here we are edit file by Web interface on Github.
+Here we are edit file by Web interface on Github. Edit Again!
 Then we create a new empty file and try to commit.
 Doing pull, the doing push.
 
