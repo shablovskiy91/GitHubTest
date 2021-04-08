@@ -1,3 +1,5 @@
 We create this file in gitbash via:
 vim text.txt
 
+We idit text file again in console! And commit it
+
