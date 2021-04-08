@@ -1,0 +1,3 @@
+We create this file in gitbash via:
+vim text.txt
+
