@@ -16,3 +16,6 @@ Doing pull, the doing push.
 
 
 Edit file via GitBash! vim README.md. To exit you must press Esc -> Shift+Z Shift+Z
+
+Edit in IDEA 2
+
