@@ -5,4 +5,4 @@ We idit text file again in console! And commit it
 
 Now we trying to do pull request
 
-return new LinkedList();
+return new ArrayList();
